@@ -3,7 +3,8 @@
 # Add this assets path in your pubspec.yaml 
 # Add assets folder in your project
   
-  
+// Carousel Slider ( Part 1)
+      
 import 'package:flutter/material.dart';
 
 class MyCarouselSlider extends StatefulWidget {
