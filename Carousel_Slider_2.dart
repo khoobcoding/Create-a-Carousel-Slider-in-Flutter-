@@ -1,5 +1,6 @@
-import 'dart:async';
+// Carousel Slider ( Part 2 )
 
+import 'dart:async';
 import 'package:flutter/material.dart';
 
 class MyCarouselSlider extends StatefulWidget {
