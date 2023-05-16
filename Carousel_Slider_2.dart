@@ -1,3 +1,8 @@
+  assets:
+    - assets/
+# Add this assets path in your pubspec.yaml 
+# Add assets folder in your project
+
 // Carousel Slider ( Part 2 )
 
 import 'dart:async';
